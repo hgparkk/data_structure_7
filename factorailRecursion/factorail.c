@@ -25,4 +25,6 @@ int factorial_iter(int n)
 int main()
 {
 	factorial(3);
+
+	return 0;
 }
